@@ -44,4 +44,5 @@ Gesture Brightness Control is a project designed to adjust the brightness of you
 Run the main script to start the gesture control:
 ```bash
 python gesture_brightness_script.py
-After running it raise your hand to increase the brightness and lower it to decrease the brightness level of your device and press 'q' to exit the script
+After running the script raise your hand to increase the brightness and lower it to decrease the brightness level of your device
+Press 'q' to exit the script
