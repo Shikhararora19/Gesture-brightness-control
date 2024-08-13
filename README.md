@@ -1,6 +1,4 @@
-# Gesture-brightness-control
-
- # Gesture Brightness Control
+# Gesture Brightness Control
 
 A Python-based project that allows users to control the brightness of their screen using hand gestures captured via a webcam.
 
@@ -11,8 +9,7 @@ A Python-based project that allows users to control the brightness of their scre
 - [Usage](#usage)
 - [Tech Stack](#tech-stack)
 - [Contributing](#contributing)
-- [License](#license)
-
+  
 ## Description
 Gesture Brightness Control is a project designed to adjust the brightness of your screen through hand gestures. By utilizing computer vision techniques, the program detects specific hand movements to increase or decrease brightness, providing a contactless way of controlling your device's display settings.
 
